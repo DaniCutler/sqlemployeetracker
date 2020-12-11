@@ -23,10 +23,10 @@ As a business owner
 I want to be able to view and manage the departments, roles, and employees in my company
 So that I can organize and plan my business
 ```
+LINK DEMONSTRATING WORKING APP
+https://drive.google.com/file/d/1lfE90DkoAX2GWzzoqTxSDwms5PN-9TXu/view
 
-
-
-
+![image](https://user-images.githubusercontent.com/72281065/101961799-b9670800-3bc7-11eb-93e4-2da064636ed8.png)
 
 
 
